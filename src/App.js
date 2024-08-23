@@ -40,7 +40,7 @@ function App() {
   return(
 
  
-  <>
+  <><div>HI</div>
       {/* <Mover/> */}
       {/* <Api/> */}
       <AddCart/>
